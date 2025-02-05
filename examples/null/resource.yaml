@@ -1,4 +1,4 @@
-apiVersion: null.template.upbound.io/v1alpha1
+apiVersion: null.rancher2.upbound.io/v1alpha1
 kind: Resource
 metadata:
   name: example
